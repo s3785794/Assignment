@@ -76,7 +76,7 @@
 
       <section>
         <h3>Link or snapshot of advertisement</h3>
-        <script src="https://www.seek.com.au/job/38634293?searchrequesttoken=73fcd9e8-671d-4899-9285-558e2e7b31da&type=promoted"></script>
+        <p>https://www.seek.com.au/job/38634293?searchrequesttoken=73fcd9e8-671d-4899-9285-558e2e7b31da&type=promoted</p>
       </section>
 
       <section>
