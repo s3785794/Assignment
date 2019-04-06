@@ -21,7 +21,7 @@
 		<!-- Main -->
 		<div id="main">
 		<!-- Image -->
-    <img src="thumbnail_IMG_6475.jpg" style=width="200"height="250">
+    <img src="file:///C:/Users/shant/Desktop/Intro%20to%20IT/image1/index.html.jpg" style=width="200"height="250">
 
 		<!-- Personal info Section-->
 			<section id="personal info">
