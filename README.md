@@ -21,7 +21,7 @@
 		<!-- Main -->
 		<div id="main">
 		<!-- Image -->
-    <img src="file:///C:/Users/shant/Desktop/Intro%20to%20IT/image1/index.html.jpg" style=width="200"height="250">
+    <img src="thumbnail_IMG_6475.jpg" style=width="200"height="250">
 
 		<!-- Personal info Section-->
 			<section id="personal info">
@@ -76,7 +76,7 @@
 
       <section>
         <h3>Link or snapshot of advertisement</h3>
-        <p>https://www.seek.com.au/job/38634293?searchrequesttoken=73fcd9e8-671d-4899-9285-558e2e7b31da&type=promoted</p>
+        <script src="https://www.seek.com.au/job/38634293?searchrequesttoken=73fcd9e8-671d-4899-9285-558e2e7b31da&type=promoted"></script>
       </section>
 
       <section>
