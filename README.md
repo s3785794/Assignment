@@ -21,7 +21,7 @@
 		<!-- Main -->
 		<div id="main">
 		<!-- Image -->
-    <img src="thumbnail_IMG_6475.jpg">
+    <img src="thumbnail_IMG_6475.jpg" width="200"height="250">
 
 		<!-- Personal info Section-->
 			<section id="personal info">
