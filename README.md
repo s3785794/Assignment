@@ -227,6 +227,5 @@
       </ul>
 			</section>
 
-</body>
-</html>
+
       
