@@ -1,4 +1,3 @@
-# Assignment for IT
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -149,7 +148,7 @@
         hear me. If someone starts the conversation, others will slowly begin to speak up. Since I am not very good at following conversation and with me starting the conversation, hopefully the others
         will follow up the conversation. When working in a team, communication is definitely the key and with someone at least guiding or leading others. The group will be able to progress and complete
         their work.</p>
-      </section>
+      
 
     </section>
   <!-- Project Idea Section -->
