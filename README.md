@@ -45,7 +45,7 @@
 			</header>
 
 				<section>
-					<h3>•	What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any). </h3>
+					<h3>What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any). </h3>
 					<p>When I was little, I was always interested in the use of a computer and using certain programs to create things. But I have never thought of doing IT as a possible future career.
 					In high school from year 8 to 10, I have taken game design and web developer as my electives. However, my interest to study IT was because of a different reason.
           In 2017, I was introduced to the game called “Overwatch” by my brother. The funny thing was that I never really like online gaming because of the negative attitude I’ve experienced
